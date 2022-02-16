@@ -1,2 +1,2 @@
 # Cadastro-series
-Desfio DIO para cadastro de series
+Desafio DIO para cadastro de series
